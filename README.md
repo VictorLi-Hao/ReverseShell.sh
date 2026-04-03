@@ -1,4 +1,4 @@
-# ReverseShell.sh
+# Linux-Reverse-Connection-Lab
 Common usage methods
 
 * Simply remove the # to use it.
